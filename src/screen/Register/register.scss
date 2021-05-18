@@ -1,0 +1,53 @@
+.rowRegister {
+  padding-inline: 12rem;
+}
+
+.col1 {
+  display: flex;
+  flex-flow: column;
+  width: 65%;
+  padding-top: 2rem;
+}
+
+.col2 {
+  width: 35%;
+}
+
+.boxRegister {
+  display: flex;
+  flex-flow: column;
+  background-color: gray;
+  height: 29rem;
+  padding-left: 14px;
+  justify-content: center;
+}
+
+.input {
+  display: flex;
+  flex-flow: nowrap;
+  padding-bottom: 1rem;
+}
+
+.inputCaptcha {
+  display: flex;
+  flex-flow: nowrap;
+  padding-bottom: 1rem;
+}
+
+.text {
+  font-size: 15px;
+  font-weight: bold;
+  width: 9rem;
+  height: 2.5rem;
+
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 1.5rem;
+  padding-bottom: unset;
+}
+
+.img {
+  padding-left: 10.5rem;
+  padding-bottom: 1rem;
+}

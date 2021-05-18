@@ -1,0 +1,14 @@
+.blocka {
+  padding-left: 2rem;
+
+  &__header {
+    margin-top: 2rem;
+    padding-left: 1rem;
+  }
+
+  &__title {
+    color: darkorange;
+    font-size: large;
+    font-weight: bold;
+  }
+}

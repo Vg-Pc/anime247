@@ -1,0 +1,22 @@
+.day {
+
+    &__item {
+        color:white;
+        margin-bottom: 0.5rem;
+        margin-inline: 0.4rem;
+
+        display: flex;
+        flex-flow: nowrap;
+        align-items: center;
+
+        font-size: small;
+        font-weight: bold;
+    }
+
+    &__avt {
+        height: 5rem;
+        width: 3.5rem;
+        background-color: lightblue;
+        margin-right: 1rem;
+    }
+}
